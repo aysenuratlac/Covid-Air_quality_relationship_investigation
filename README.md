@@ -1,5 +1,5 @@
 
-# Final Project - The Investigation of the Relationship Between Covid-19 Cases and Air Quality
+# The Investigation of the Relationship Between Covid-19 Cases and Air Quality
 
 ## Introduction
 This project will examine the relationship between COVID-19 and air quality over time and location. 
